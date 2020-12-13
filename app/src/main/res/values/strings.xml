@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LADM_U3_EJERCICIO6</string>
+    <array name="opcionesb">
+        <item>Descripcion</item>
+        <item>Fecha de Captura</item>
+        <item>Fecha de Entrega</item>
+        <item>No entregado</item>
+    </array>
+</resources>
